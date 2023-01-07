@@ -1,4 +1,7 @@
 <p align="center">
+<img src="./.github/logo.svg" width="500px" alt="FrostFS logo">
+</p>
+<p align="center">
   <a href="https://frostfs.info">FrostFS</a> local Development and Testing environment
 </p>
 
